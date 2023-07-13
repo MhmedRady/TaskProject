@@ -398,8 +398,7 @@ FodyWeavers.xsd
 *.sln.iml
 
 .angular/
-NewProject.WebAPI/appsettings.json
-NewProject.WebAPI/appsettings.json
+
 .idea/.idea.NewProject/.idea/.name
 
 /NewProject.WebApi/wwwroot/images/uploaded/*
